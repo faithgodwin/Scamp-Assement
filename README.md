@@ -1,0 +1,2 @@
+# Scamp-Assement
+fibbonacci sequence 
